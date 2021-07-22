@@ -4,7 +4,7 @@ import { HeroList } from '../heroes/HeroList';
 export const MarvelScreen = () => {
     return (
         <div>
-            <h1>MarvelScreen</h1>
+            <h1>Marvel Screen</h1>
 
             <hr />
 
