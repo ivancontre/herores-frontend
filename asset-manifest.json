@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/static/js/main.6e05fbc0.chunk.js",
-    "main.js.map": "/static/js/main.6e05fbc0.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b7f813af.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b7f813af.js.map",
-    "static/css/2.2ce0d9b2.chunk.css": "/static/css/2.2ce0d9b2.chunk.css",
-    "static/js/2.6ab9a4e5.chunk.js": "/static/js/2.6ab9a4e5.chunk.js",
-    "static/js/2.6ab9a4e5.chunk.js.map": "/static/js/2.6ab9a4e5.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.eea6f444b2f97a61daf738db081009fb.js": "/precache-manifest.eea6f444b2f97a61daf738db081009fb.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.2ce0d9b2.chunk.css.map": "/static/css/2.2ce0d9b2.chunk.css.map",
-    "static/js/2.6ab9a4e5.chunk.js.LICENSE.txt": "/static/js/2.6ab9a4e5.chunk.js.LICENSE.txt"
+    "main.js": "https://ivancontre.github.io/react-heroresapp/static/js/main.6e05fbc0.chunk.js",
+    "main.js.map": "https://ivancontre.github.io/react-heroresapp/static/js/main.6e05fbc0.chunk.js.map",
+    "runtime-main.js": "https://ivancontre.github.io/react-heroresapp/static/js/runtime-main.53f124cb.js",
+    "runtime-main.js.map": "https://ivancontre.github.io/react-heroresapp/static/js/runtime-main.53f124cb.js.map",
+    "static/css/2.2ce0d9b2.chunk.css": "https://ivancontre.github.io/react-heroresapp/static/css/2.2ce0d9b2.chunk.css",
+    "static/js/2.6ab9a4e5.chunk.js": "https://ivancontre.github.io/react-heroresapp/static/js/2.6ab9a4e5.chunk.js",
+    "static/js/2.6ab9a4e5.chunk.js.map": "https://ivancontre.github.io/react-heroresapp/static/js/2.6ab9a4e5.chunk.js.map",
+    "index.html": "https://ivancontre.github.io/react-heroresapp/index.html",
+    "precache-manifest.fae9afd61c1da516ffe6a26c8549786b.js": "https://ivancontre.github.io/react-heroresapp/precache-manifest.fae9afd61c1da516ffe6a26c8549786b.js",
+    "service-worker.js": "https://ivancontre.github.io/react-heroresapp/service-worker.js",
+    "static/css/2.2ce0d9b2.chunk.css.map": "https://ivancontre.github.io/react-heroresapp/static/css/2.2ce0d9b2.chunk.css.map",
+    "static/js/2.6ab9a4e5.chunk.js.LICENSE.txt": "https://ivancontre.github.io/react-heroresapp/static/js/2.6ab9a4e5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b7f813af.js",
+    "static/js/runtime-main.53f124cb.js",
     "static/css/2.2ce0d9b2.chunk.css",
     "static/js/2.6ab9a4e5.chunk.js",
     "static/js/main.6e05fbc0.chunk.js"
