@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/react-heroresapp/precache-manifest.2d7a12094b7ce8ccc149ff5160d3fc17.js"
+  "/react-heroresapp/precache-manifest.3c6ed6bfd7594b47b132a67244ea430a.js"
 );
 
 self.addEventListener('message', (event) => {
