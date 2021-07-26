@@ -1,22 +1,42 @@
 {
   "files": {
-    "main.js": "https://ivancontre.github.io/react-heroresapp/static/js/main.6e05fbc0.chunk.js",
-    "main.js.map": "https://ivancontre.github.io/react-heroresapp/static/js/main.6e05fbc0.chunk.js.map",
+    "main.js": "https://ivancontre.github.io/react-heroresapp/static/js/main.73f75378.chunk.js",
+    "main.js.map": "https://ivancontre.github.io/react-heroresapp/static/js/main.73f75378.chunk.js.map",
     "runtime-main.js": "https://ivancontre.github.io/react-heroresapp/static/js/runtime-main.53f124cb.js",
     "runtime-main.js.map": "https://ivancontre.github.io/react-heroresapp/static/js/runtime-main.53f124cb.js.map",
     "static/css/2.2ce0d9b2.chunk.css": "https://ivancontre.github.io/react-heroresapp/static/css/2.2ce0d9b2.chunk.css",
-    "static/js/2.6ab9a4e5.chunk.js": "https://ivancontre.github.io/react-heroresapp/static/js/2.6ab9a4e5.chunk.js",
-    "static/js/2.6ab9a4e5.chunk.js.map": "https://ivancontre.github.io/react-heroresapp/static/js/2.6ab9a4e5.chunk.js.map",
+    "static/js/2.4cf2f494.chunk.js": "https://ivancontre.github.io/react-heroresapp/static/js/2.4cf2f494.chunk.js",
+    "static/js/2.4cf2f494.chunk.js.map": "https://ivancontre.github.io/react-heroresapp/static/js/2.4cf2f494.chunk.js.map",
     "index.html": "https://ivancontre.github.io/react-heroresapp/index.html",
-    "precache-manifest.fae9afd61c1da516ffe6a26c8549786b.js": "https://ivancontre.github.io/react-heroresapp/precache-manifest.fae9afd61c1da516ffe6a26c8549786b.js",
+    "precache-manifest.9594a6496bcb70dc6f9bda725140dc99.js": "https://ivancontre.github.io/react-heroresapp/precache-manifest.9594a6496bcb70dc6f9bda725140dc99.js",
     "service-worker.js": "https://ivancontre.github.io/react-heroresapp/service-worker.js",
     "static/css/2.2ce0d9b2.chunk.css.map": "https://ivancontre.github.io/react-heroresapp/static/css/2.2ce0d9b2.chunk.css.map",
-    "static/js/2.6ab9a4e5.chunk.js.LICENSE.txt": "https://ivancontre.github.io/react-heroresapp/static/js/2.6ab9a4e5.chunk.js.LICENSE.txt"
+    "static/js/2.4cf2f494.chunk.js.LICENSE.txt": "https://ivancontre.github.io/react-heroresapp/static/js/2.4cf2f494.chunk.js.LICENSE.txt",
+    "static/media/dc-arrow.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/dc-arrow.a179d871.jpg",
+    "static/media/dc-batman.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/dc-batman.8efedfa7.jpg",
+    "static/media/dc-black.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/dc-black.5d203be2.jpg",
+    "static/media/dc-blue.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/dc-blue.871a00dd.jpg",
+    "static/media/dc-flash.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/dc-flash.d22cd5d0.jpg",
+    "static/media/dc-green.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/dc-green.dae0db0a.jpg",
+    "static/media/dc-martian.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/dc-martian.9629381c.jpg",
+    "static/media/dc-robin.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/dc-robin.3b3b7dd1.jpg",
+    "static/media/dc-superman.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/dc-superman.ad88dd85.jpg",
+    "static/media/dc-wonder.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/dc-wonder.b0117200.jpg",
+    "static/media/marvel-captain.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/marvel-captain.71c5a519.jpg",
+    "static/media/marvel-cyclops.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/marvel-cyclops.017af60c.jpg",
+    "static/media/marvel-daredevil.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/marvel-daredevil.3d4c3df8.jpg",
+    "static/media/marvel-hawkeye.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/marvel-hawkeye.df41e28c.jpg",
+    "static/media/marvel-hulk.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/marvel-hulk.8f5cd939.jpg",
+    "static/media/marvel-iron.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/marvel-iron.8f307eef.jpg",
+    "static/media/marvel-silver.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/marvel-silver.c055e4a0.jpg",
+    "static/media/marvel-spider.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/marvel-spider.9967f816.jpg",
+    "static/media/marvel-thor.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/marvel-thor.9f1b74e5.jpg",
+    "static/media/marvel-wolverine.jpg": "https://ivancontre.github.io/react-heroresapp/static/media/marvel-wolverine.a1a41d9a.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.53f124cb.js",
     "static/css/2.2ce0d9b2.chunk.css",
-    "static/js/2.6ab9a4e5.chunk.js",
-    "static/js/main.6e05fbc0.chunk.js"
+    "static/js/2.4cf2f494.chunk.js",
+    "static/js/main.73f75378.chunk.js"
   ]
 }
