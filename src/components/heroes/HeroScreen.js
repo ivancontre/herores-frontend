@@ -2,6 +2,9 @@ import React, { useMemo } from 'react';
 import { Redirect, useParams } from 'react-router-dom';
 import { getHeroById } from '../../selectors/getHeroById';
 
+// import batman from '../../assets/heroes/dc-batman.jpg' // estático
+const heroImages = require.context('../../assets/heroes', true);
+
 export const HeroScreen = ( { history } ) => {
 
     const { heroId } = useParams();
@@ -12,7 +15,7 @@ export const HeroScreen = ( { history } ) => {
 
     if (!hero) {
         return <Redirect to="/" />
-    }
+    }    
 
     const {
         id,
@@ -38,7 +41,13 @@ export const HeroScreen = ( { history } ) => {
     return (
         <div className="row mt-5">
             <div className="col-4">
-                <img className="img-thumbnail animate__animated animate__fadeInLeft" src={ `./assets/heroes/${ id }.jpg`} alt={ superhero }/>
+                <img 
+                    className="img-thumbnail animate__animated animate__fadeInLeft" 
+                    // src={ `./assets/heroes/${ id }.jpg`} // desde public/assets
+                    // src={ batman } // import
+                    src={ heroImages(`./${ id }.jpg`) }
+                    alt={ superhero }
+                />
             </div>
 
             <div className="col-8">
