@@ -1,5 +1,12 @@
-Aplicación simple que maneja routers privados y públicos en base a una autenticación con email y contraseña.
-Posee recordatorio de la última página visitada al momento de hacer logout, y un buscador en base a queryParams
+Aplicación simple que muestra datos de superhéroes
 
+Está creada en base: 
+
+* Funtional Components
+* Hook Context
+* Routers privados y públicos
+* Bootstrap
+* Recordatorio de la última página visitado al hacer logout
+* Buscador en base a queryParams
 
 https://ivancontre.github.io/react-heroresapp/#/login
